@@ -4,7 +4,7 @@
 
 https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/
 
-## If receiving you are running PHP 7 and you need PHP 8 error, run the following command
+## If receiving you are running PHP 7 and you see the install PHP 8 error, run the following command
 
 composer install --ignore-platform-reqs
 
