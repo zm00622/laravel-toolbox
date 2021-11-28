@@ -4,6 +4,8 @@
 
 https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/
 
+## If PHP is out of date for the Laravel Project, Update PHP using Homebrew
+
 ## Update Homebrew
 
 ### Update homebrew
