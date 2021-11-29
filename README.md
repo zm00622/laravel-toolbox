@@ -40,6 +40,10 @@ https://medium.com/modulr/how-to-install-laravel-valet-on-mac-f061ce2d095e
 
 # Things to try
 
-Make sure the ~/.composer/vendor/bin directory is in your system's "PATH".
+### Make sure the ~/.composer/vendor/bin directory is in your system's "PATH".
+
+### I can ping the server
+
+Once Valet is installed, try pinging any *.test domain on your terminal using a command such as ping foobar.test. If Valet is installed correctly you should see this domain responding on 127.0.0.1.
 
 
