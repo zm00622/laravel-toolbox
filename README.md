@@ -21,6 +21,9 @@ brew tap shivammathur/php
 ### Install PHP 8.0
 brew install shivammathur/php/php@8.0
 
+### After running the above, I had to force switch to PHP 8
+brew link --overwrite --force php@8.0
+
 
 
 
