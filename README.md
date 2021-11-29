@@ -33,6 +33,12 @@ The most important thing to do when cloning a laravel project is to first run "c
 
 The steps I took to clone a laravel project required the "php artisan key:generate" command. I can see in my .env file that there is an updated APP_KEY=base64:xxxxxxxxxxxxxxxxxxxx after running this command.
 
-# Use this server
+# Use valet server
 
 https://laravel.com/docs/8.x/valet
+
+# Valet server install instructions
+
+https://medium.com/modulr/how-to-install-laravel-valet-on-mac-f061ce2d095e
+
+
