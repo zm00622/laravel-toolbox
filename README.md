@@ -29,3 +29,7 @@ brew install shivammathur/php/php@8.0
 The most important thing to do when cloning a laravel project is to first run "composer update" then "composer install --ignore-platform-reqs". The composer install command installs any required dependencies for that laravel app.
 
 The steps I took to clone a laravel project required the "php artisan key:generate" command. I can see in my .env file that there is an updated APP_KEY=base64:xxxxxxxxxxxxxxxxxxxx after running this command.
+
+# Use this server
+
+https://laravel.com/docs/8.x/valet
