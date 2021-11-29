@@ -24,9 +24,6 @@ brew install shivammathur/php/php@8.0
 ### After running the above, I had to force switch to PHP 8
 brew link --overwrite --force php@8.0
 
-
-
-
 # Maybe try
 
 The most important thing to do when cloning a laravel project is to first run "composer update" then "composer install --ignore-platform-reqs". The composer install command installs any required dependencies for that laravel app.
@@ -40,5 +37,9 @@ https://laravel.com/docs/8.x/valet
 # Valet server install instructions
 
 https://medium.com/modulr/how-to-install-laravel-valet-on-mac-f061ce2d095e
+
+# Things to try
+
+Make sure the ~/.composer/vendor/bin directory is in your system's "PATH".
 
 
