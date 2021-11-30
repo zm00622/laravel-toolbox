@@ -46,7 +46,7 @@ https://medium.com/modulr/how-to-install-laravel-valet-on-mac-f061ce2d095e
 
 Once Valet is installed, try pinging any *.test domain on your terminal using a command such as ping foobar.test. If Valet is installed correctly you should see this domain responding on 127.0.0.1.
 
-### Command used to set up existing repo with docker
+### Command used to set up existing laravel repo with docker
 
 After the project has been created, you can navigate to the application directory and start Laravel Sail. Laravel Sail provides a simple command-line interface for interacting with Laravel's default Docker configuration:
 
