@@ -8,7 +8,7 @@ https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/
 
 composer install --ignore-platform-reqs
 
-## If PHP is out of date for the Laravel Project, Update PHP using Homebrew
+## If PHP is out of date for the Laravel Project, Update PHP using Homebrew (You must first install Homebrew)
 
 ## Update Homebrew
 
@@ -53,5 +53,11 @@ After the project has been created, you can navigate to the application director
 cd example-app
 
 ./vendor/bin/sail up
+
+### If you are receiving a curl error, try installing curl (you must have homebrew to use this command):
+
+Install command:
+
+brew install curl
 
 
