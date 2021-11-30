@@ -60,6 +60,6 @@ Install command:
 
 brew install curl
 
-# If all else fails, try loading / cloning a simple laravel project (to at least see if you can get that up and running)
+### If all else fails, try loading / cloning a simple laravel project (to at least see if you can get that up and running)
 
 
