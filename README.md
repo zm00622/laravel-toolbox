@@ -1,5 +1,14 @@
 # laravel-toolbox
 
+## Laravel Directory / File Hierarchy Explained:
+
+https://www.devsenv.com/tutorials/directory-structure-of-laravel-application-2
+
+
+
+
+## ---- Errors when cloning project ---- 
+
 ## Setup Cloned Laravel Project
 
 https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/
