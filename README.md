@@ -7,7 +7,7 @@ https://www.devsenv.com/tutorials/directory-structure-of-laravel-application-2
 
 
 
-## ---- Errors when cloning project ---- 
+# ---- Everything below this line concerns errors when cloning a project. ---- 
 
 ## Setup Cloned Laravel Project
 
@@ -70,5 +70,11 @@ Install command:
 brew install curl
 
 ### If all else fails, try loading / cloning a simple laravel project (to at least see if you can get that up and running)
+
+### If you can run a simple laravel site, then there must be something wrong with the directory for the project you are trying to clone. 
+
+### Check your environment configuration in .env
+
+https://www.digitalocean.com/community/tutorials/understanding-laravel-environment-variables
 
 
