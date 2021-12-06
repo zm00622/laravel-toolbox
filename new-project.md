@@ -1,3 +1,6 @@
+https://www.rookieslab.com/posts/dont-be-stuck-at-dev-environment-setup
+
+
 1) Verify composer
 
 Verify that composer is installed globally on the system by typing composer on terminal.
