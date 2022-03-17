@@ -4,7 +4,19 @@
 
 https://www.devsenv.com/tutorials/directory-structure-of-laravel-application-2
 
+# Laravel for Front End Devs:
 
+https://medium.com/@nedsoft/how-to-work-with-laravel-as-a-front-end-dev-85ac2d420da7
+
+### Assuming you want to link public/css/style.css, public/js/script.js and public/images/avartar.jpg to a blade view, blade’s way of doing it is shown below:
+
+``` <link href="{{ asset('css/style.css')}}" rel="stylesheet"> // for css asset
+
+<script src="{{ asset('js/script.js')}}"></script> // for js asset
+
+<img src="{{ asset('images/avartar.jpg')}}" alt=""> // for image asset
+
+```
 
 
 # ---- Everything below this line concerns errors when cloning a project. ---- 
