@@ -22,12 +22,6 @@ Once you’ve created your blade view, you might want to view it on the browser,
 
 Let’s create a blade view called test.blade.php in the resoures/views directory. Add a HTML boilerplate in the test.blade.php file as shown belo:
 
-``` 
-Once you’ve created your blade view, you might want to view it on the browser, to achieve that, you need to create a route for that particular view.
-
-Let’s create a blade view called test.blade.php in the resoures/views directory. Add a HTML boilerplate in the test.blade.php file as shown belo:
-```
-
 Next, open routes/web.php and add the code below:
 
 ```
