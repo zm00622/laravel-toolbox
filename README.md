@@ -4,6 +4,10 @@
 
 https://learninglaravel.net/cheatsheet/#
 
+# Laravel Resource Controllers Explained
+
+https://www.javatpoint.com/laravel-resource-controllers
+
 ## Laravel Directory / File Hierarchy Explained:
 
 https://www.devsenv.com/tutorials/directory-structure-of-laravel-application-2
