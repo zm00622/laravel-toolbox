@@ -1,5 +1,11 @@
 # laravel-toolbox
 
+# Laravel Stripe and Cashier for Subscription Payments:
+
+https://tutorial101.blogspot.com/2022/09/laravel-9-cashier-stripe-subscription.html
+
+https://youtu.be/wvcs8KHdGlU
+
 # Cheatsheet
 
 https://learninglaravel.net/cheatsheet/#
